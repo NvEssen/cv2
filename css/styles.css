@@ -32,7 +32,7 @@ a {
 hr {
   width: 5%;
   border-style: dotted none none none;
-  border-color: #EAF6F6;
+  border-color: #C4C4C2;
   border-width: 10px;
   margin: 6.5rem auto;
 }
@@ -67,7 +67,7 @@ hr {
 }
 
 .profile img {
-  width: 40%;
+  width: 60%;
   margin-top: 5rem;
 }
 
@@ -100,12 +100,14 @@ hr {
 }
 
 .bottom-container span {
-  font-size: 0.5rem;
+  font-size: 0.3rem;
+  padding: 2rem;
 }
 
 .footer-link {
   color: #11999E;
-  padding: 2rem 1rem 2rem 1rem;
+  margin-right: 0.9rem;
+  margin-left: 0.9rem;
   font-size: 1.5rem;
 }
 
